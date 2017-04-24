@@ -1,0 +1,1 @@
+# BIG-DATA-HADOOP-TRAINING_session1_assignment1
